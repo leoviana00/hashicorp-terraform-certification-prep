@@ -1,3 +1,4 @@
+#Assignment 1 - EC2 Instance
 provider "aws" {
   region = "us-east-1"
 }
