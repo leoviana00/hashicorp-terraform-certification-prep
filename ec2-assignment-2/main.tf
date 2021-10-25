@@ -1,3 +1,4 @@
+#Assignment 2 - EC2 - Block w/tags
 provider "aws" {
   region = "us-east-1"
 }
