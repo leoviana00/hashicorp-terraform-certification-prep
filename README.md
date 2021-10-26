@@ -5,8 +5,8 @@
 
 ## Documentation
 
-- Terraform EC2 Documentation
+- Terraform EC2 Documentation:
 https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance
 
-- Input Variables Documentation
+- Input Variables Documentation: 
 https://www.terraform.io/docs/language/values/variables.html
