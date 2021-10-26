@@ -1,3 +1,0 @@
-export TF_VAR_instance_type=t2.micro
-export TF_VAR_location=us-east-1
-export TF_VAR_linux_img=ami-02e136e904f3da870
