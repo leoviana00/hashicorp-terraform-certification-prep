@@ -3,5 +3,6 @@ provider "aws" {
 }
 
 module "windows" {
-  source = "./ec2-module/"
+  source            = "./ec2-module/"
+  availability_zone = "us-east-1a"
 }
